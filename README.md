@@ -1,2 +1,4 @@
-# automl_cookbook
-AutoML cookbook
+# AutoML cookbooks
+
+- [FLAML](./notebooks/flaml/)
+- [EvalML](./notebooks/evalml/)
